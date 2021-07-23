@@ -1,0 +1,17 @@
+{
+  "name": "cs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "runtime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/browser": "^6.10.0",
+    "@sentry/tracing": "^6.10.0",
+    "execution-time": "^1.4.1",
+    "honeycomb-beeline": "^2.7.3"
+  }
+}
